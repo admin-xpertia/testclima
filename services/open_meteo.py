@@ -17,9 +17,7 @@ We keep it simple but "enterprise-ish":
 
 from __future__ import annotations
 
-from dataclasses import dataclass
-from typing import Any, Dict, Optional, List
-import json
+from typing import Any, Dict, List
 
 import httpx
 
